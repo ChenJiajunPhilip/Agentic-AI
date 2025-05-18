@@ -1,5 +1,7 @@
 # <div align="center">⚡Welcome to the Agentic AI Repository! ⚡</div>
 
+![image](https://github.com/user-attachments/assets/3921f4b8-4305-4049-a218-feb033bdb320) YouTube guide to Agentic AI: https://www.youtube.com/watch?v=FwOTs4UxQS4
+
 This repository is your one-stop resource for mastering Agentic AI, a domain of artificial intelligence that focuses on building autonomous AI agents. From understanding the foundational concepts to building industry-ready AI agents, this repository includes blogs, tutorials, and projects to guide you every step of the way. Let us get started!
 
 ## **✅ What’s inside the repository?**
